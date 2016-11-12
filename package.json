@@ -1,0 +1,11 @@
+{
+  "name": "apache-kafka-node",
+  "version": "0.0.1",
+  "description": "parking system client",
+  "engines": {
+    "node": "~0.8.0"
+  },
+  "dependencies": {
+    "kafka-node": "1.0.5"
+  }
+}
